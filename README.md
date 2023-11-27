@@ -1,0 +1,2 @@
+# v2ray_for_linux_server
+因为不熟悉v2ray配置方法，这里直接使用windows上的配置文件，直接copy到linux服务器上进行使用的方法。
